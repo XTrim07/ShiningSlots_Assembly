@@ -1,0 +1,23 @@
+# CREDITS - imagini originale, fara asset-uri EGT/Amusnet cu copyright
+# toate cele 33 BMP-uri din assets/ sunt desenate procedural cu gen_simboluri.py (PIL)
+# stil similar Shining Crown (fructe clasice + coroana aurie + stea), cod original
+# licenta: liber de folosit in proiectul personal Slots
+# marime: simboluri 128x128 BMP 24-bit (compatibil SDL_LoadBMP)
+#   butoane: spin.bmp/double.bmp 200x60, collect.bmp 300x40 (cu scris SPIN/DOUBLE/TAKE WIN)
+#   beturi: bet10/20/40/80/100/150/250.bmp 84x32 sub SPIN
+#   text simplu pe fundal (fara chenar, fundal = movul jocului): credit.bmp (CREDITS) + bet_lbl.bmp (BET) + win_lbl.bmp (WIN)
+#   cifre: digit0-9.bmp 16x22 (numerele live credite/bet/ultimul castig, desenate cifra cu cifra)
+#   nocash.bmp 460x36 (NOT ENOUGH CREDITS rosu sus, cand ramai fara credite)
+# lista:
+#   coroana.bmp - coroana aurie cu giuvaiere rosii (simbol mare)
+#   pepene.bmp  - felie pepene rosu cu coaja verde
+#   pruna.bmp   - pruna mov cu frunza
+#   portocala.bmp - portocala cu frunza
+#   banana.bmp  - banana galbena semiluna
+#   cirese.bmp  - 2 cirese rosii cu codite
+#   stea.bmp    - stea aurie tip scatter
+#   rosu.bmp    - inima rosie ca la cartile de joc (dublaj ROSU)
+#   negru.bmp   - inima neagra ca la cartile de joc (dublaj NEGRU)
+#   spin.bmp    - buton SPIN verde cu scris alb 200x60 (sta mereu jos)
+#   double.bmp  - buton DOUBLE violet cu scris auriu 200x60 (doar la oferta, in dreapta lui SPIN)
+#   collect.bmp - buton TAKE WIN auriu 300x40 (in dublaj, colectezi cand te saturi)
